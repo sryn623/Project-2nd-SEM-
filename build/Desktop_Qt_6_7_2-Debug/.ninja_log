@@ -1,0 +1,42 @@
+# ninja log v6
+13	3455	1719219579242071268	searchbar_autogen/timestamp	545704b4b4996b45
+13	3455	1719219579242071268	searchbar_autogen/mocs_compilation.cpp	545704b4b4996b45
+13	3455	1719219579242071268	/home/sryn/PersonalProject/SEM project /searchbar/build/Desktop_Qt_6_7_2-Debug/searchbar_autogen/timestamp	545704b4b4996b45
+13	3455	1719219579242071268	/home/sryn/PersonalProject/SEM project /searchbar/build/Desktop_Qt_6_7_2-Debug/searchbar_autogen/mocs_compilation.cpp	545704b4b4996b45
+9	30	1719219656911458516	searchbar_autogen/timestamp	545704b4b4996b45
+9	30	1719219656911458516	searchbar_autogen/mocs_compilation.cpp	545704b4b4996b45
+9	30	1719219656911458516	/home/sryn/PersonalProject/SEM project /searchbar/build/Desktop_Qt_6_7_2-Debug/searchbar_autogen/timestamp	545704b4b4996b45
+9	30	1719219656911458516	/home/sryn/PersonalProject/SEM project /searchbar/build/Desktop_Qt_6_7_2-Debug/searchbar_autogen/mocs_compilation.cpp	545704b4b4996b45
+35	3098	1719219782653699967	searchbar_autogen/timestamp	545704b4b4996b45
+35	3098	1719219782653699967	searchbar_autogen/mocs_compilation.cpp	545704b4b4996b45
+35	3098	1719219782653699967	/home/sryn/PersonalProject/SEM project /searchbar/build/Desktop_Qt_6_7_2-Debug/searchbar_autogen/timestamp	545704b4b4996b45
+35	3098	1719219782653699967	/home/sryn/PersonalProject/SEM project /searchbar/build/Desktop_Qt_6_7_2-Debug/searchbar_autogen/mocs_compilation.cpp	545704b4b4996b45
+54	3454	1719220186412872015	searchbar_autogen/timestamp	545704b4b4996b45
+54	3454	1719220186412872015	searchbar_autogen/mocs_compilation.cpp	545704b4b4996b45
+54	3454	1719220186412872015	/home/sryn/PersonalProject/SEM project /searchbar/build/Desktop_Qt_6_7_2-Debug/searchbar_autogen/timestamp	545704b4b4996b45
+54	3454	1719220186412872015	/home/sryn/PersonalProject/SEM project /searchbar/build/Desktop_Qt_6_7_2-Debug/searchbar_autogen/mocs_compilation.cpp	545704b4b4996b45
+35	211	1719220307359015484	searchbar_autogen/timestamp	545704b4b4996b45
+35	211	1719220307359015484	searchbar_autogen/mocs_compilation.cpp	545704b4b4996b45
+35	211	1719220307359015484	/home/sryn/PersonalProject/SEM project /searchbar/build/Desktop_Qt_6_7_2-Debug/searchbar_autogen/timestamp	545704b4b4996b45
+35	211	1719220307359015484	/home/sryn/PersonalProject/SEM project /searchbar/build/Desktop_Qt_6_7_2-Debug/searchbar_autogen/mocs_compilation.cpp	545704b4b4996b45
+35	3504	1719220505718527890	searchbar_autogen/timestamp	545704b4b4996b45
+35	3504	1719220505718527890	searchbar_autogen/mocs_compilation.cpp	545704b4b4996b45
+35	3504	1719220505718527890	/home/sryn/PersonalProject/SEM project /searchbar/build/Desktop_Qt_6_7_2-Debug/searchbar_autogen/timestamp	545704b4b4996b45
+35	3504	1719220505718527890	/home/sryn/PersonalProject/SEM project /searchbar/build/Desktop_Qt_6_7_2-Debug/searchbar_autogen/mocs_compilation.cpp	545704b4b4996b45
+68	3182	1719220568687642291	searchbar_autogen/timestamp	545704b4b4996b45
+68	3182	1719220568687642291	searchbar_autogen/mocs_compilation.cpp	545704b4b4996b45
+68	3182	1719220568687642291	/home/sryn/PersonalProject/SEM project /searchbar/build/Desktop_Qt_6_7_2-Debug/searchbar_autogen/timestamp	545704b4b4996b45
+68	3182	1719220568687642291	/home/sryn/PersonalProject/SEM project /searchbar/build/Desktop_Qt_6_7_2-Debug/searchbar_autogen/mocs_compilation.cpp	545704b4b4996b45
+43	3579	1719220687045736356	searchbar_autogen/timestamp	545704b4b4996b45
+43	3579	1719220687045736356	searchbar_autogen/mocs_compilation.cpp	545704b4b4996b45
+43	3579	1719220687045736356	/home/sryn/PersonalProject/SEM project /searchbar/build/Desktop_Qt_6_7_2-Debug/searchbar_autogen/timestamp	545704b4b4996b45
+43	3579	1719220687045736356	/home/sryn/PersonalProject/SEM project /searchbar/build/Desktop_Qt_6_7_2-Debug/searchbar_autogen/mocs_compilation.cpp	545704b4b4996b45
+4	800	1719220883161204715	searchbar_autogen/timestamp	545704b4b4996b45
+4	800	1719220883161204715	searchbar_autogen/mocs_compilation.cpp	545704b4b4996b45
+4	800	1719220883161204715	/home/sryn/PersonalProject/SEM project /searchbar/build/Desktop_Qt_6_7_2-Debug/searchbar_autogen/timestamp	545704b4b4996b45
+4	800	1719220883161204715	/home/sryn/PersonalProject/SEM project /searchbar/build/Desktop_Qt_6_7_2-Debug/searchbar_autogen/mocs_compilation.cpp	545704b4b4996b45
+802	15548	1719220883173204927	CMakeFiles/searchbar.dir/searchbar.cpp.o	d7b53d686050f8bf
+802	15710	1719220883173204927	CMakeFiles/searchbar.dir/mainwindow.cpp.o	bebedfff65ed0b19
+801	16008	1719220883173204927	CMakeFiles/searchbar.dir/searchbar_autogen/mocs_compilation.cpp.o	a51cf316778c235e
+801	16103	1719220883173204927	CMakeFiles/searchbar.dir/main.cpp.o	89f70a0bc4c3d48c
+16103	16827	1719220898473475457	searchbar	402fb3675a69746e
