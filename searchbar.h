@@ -3,9 +3,12 @@
 
 #include <QWidget>
 #include <QLineEdit>
+#include <QVBoxLayout>
 #include <QHBoxLayout>
+#include <QPushButton>
+#include <QLabel>
 
-class SearchBar : public QWidget
+  class SearchBar : public QWidget
 {
     Q_OBJECT
 
@@ -14,8 +17,13 @@ public:
 
 private:
     QLineEdit *searchLineEdit;
-    QHBoxLayout *layout;
+    QVBoxLayout *mainLayout;
+
+    QPushButton *menuButton;
+    QLabel *titleLabel;
+    QPushButton *searchButton;
+
+    void setupNavbar();
 };
 
-#endif // SEARCHBAR_H
-
+#endif

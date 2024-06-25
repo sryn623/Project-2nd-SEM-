@@ -1,22 +1,28 @@
 #include "mainwindow.h"
-#include "searchbar.h"
 #include <QVBoxLayout>
 #include <QWidget>
 
-MainWindow::MainWindow(QWidget *parent)
+  MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent), searchBar(new SearchBar(this))
 {
-    QWidget *centralWidget = new QWidget(this);
+
+    QWidget *centralWidget = new QWidget(this);    //-------------CENTRAL WIDGET---------
+
+
     QVBoxLayout *mainLayout = new QVBoxLayout(centralWidget);
 
-    mainLayout->addWidget(searchBar);
-    mainLayout->setAlignment(searchBar, Qt::AlignTop | Qt::AlignHCenter);
 
+    mainLayout->addWidget(searchBar);  //-----ADD SEARCH BAR TO TOP-----
+
+
+
+    mainLayout->addStretch();                //TO PUSH CONTENT TO TOP
+
+
+    centralWidget->setLayout(mainLayout);
     setCentralWidget(centralWidget);
 }
 
 MainWindow::~MainWindow()
 {
 }
-
-

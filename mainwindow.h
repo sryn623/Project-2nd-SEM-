@@ -4,7 +4,7 @@
 #include <QMainWindow>
 #include "searchbar.h"
 
-class MainWindow : public QMainWindow
+  class MainWindow : public QMainWindow
 {
     Q_OBJECT
 
@@ -16,5 +16,4 @@ private:
     SearchBar *searchBar;
 };
 
-#endif // MAINWINDOW_H
-
+#endif
